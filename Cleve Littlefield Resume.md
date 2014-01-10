@@ -1,8 +1,10 @@
 #Resume
 
+----------
+
 ##Cleve Littlefield
-+1 (425) 247-0675
-cleve.littlefield@cleverizeit.com
+###+1 (425) 247-0675
+###cleve.littlefield@cleverizeit.com
 
 #Skills & Abilities
 ##Windows Azure 
